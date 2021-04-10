@@ -1,5 +1,5 @@
 # DiscordEmbedGenerator
-Generates embeds better with Discord.js
+Makes embed creation 10x easier and simpler.
 
 # How to setup
 
@@ -14,3 +14,7 @@ const embed = require('./extension/embed.js');
 # Usage
 
 embed(message, "Your Embed Message here", "#color (can use color variable)")
+
+# Customize
+
+You can change the embed design in the embed.js file.
