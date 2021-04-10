@@ -10,3 +10,7 @@ Step 3) Call it in a file you want to generate embeds. <br>
 # Calling the Embed Gen
 
 const embed = require('./extension/embed.js'); 
+
+# Usage
+
+embed(message, "Your Embed Message here", "#color (can use color variable)")
